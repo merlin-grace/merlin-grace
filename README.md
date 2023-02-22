@@ -27,9 +27,9 @@
 
 <br/>
 
-<a href="https://github.com/merlingrace">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merlingrace8&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merlingrace8&theme=buefy&layout=compact" />
+<a href="https://github.com/merlin-grace">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merlin-grace&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merlin-grace&theme=buefy&layout=compact" />
 </a>
 
 <br/>
