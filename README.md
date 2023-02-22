@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Merlin/Grace/master/assets/Merlin%20Grace%20Banner.png">
+<img src="https://raw.githubusercontent.com/Merlin Grace/Merlin Grace/master/assets/Merlin%20Grace%20Banner.png">
 
 <h2> Hey there! I'm Merlin Grace.</h2>
 
