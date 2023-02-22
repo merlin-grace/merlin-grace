@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about soft skills
-- 📫 How to reach me on Linkedin (www.linkedin.com/Merlin Grace)
+- 📫 How to reach me on Linkedin (www.linkedin.com/merlingrace)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm very HAPPY!! 
+- ⚡ Fun fact: I speak four Languages(English, Hindi, Tamil, Malayalam)
 
