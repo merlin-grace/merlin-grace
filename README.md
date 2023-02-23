@@ -38,7 +38,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/merlin-grace-4562a2266/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-20%Merlin20% Grace20%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/merlin-grace-4562a2266/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-merlin-grace-4562a2266-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/Yasmeen_710135/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Yasmeen__710135-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:merlingrace24@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-merlingrace24@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
