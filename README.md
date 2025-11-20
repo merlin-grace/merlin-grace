@@ -6,9 +6,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp;Software Engineering  at Anna University.
-- 💼 &nbsp; Working as a DevOps Engineer at Vision Group Retail  Private Limited.
+- 💼 &nbsp; Working as a Image Recognition (IR) Process Associate at Vision Group Retail  Private Limited.
 - 🌱 &nbsp; Learning more about DevOps and AWS Cloud.
-- ✍️ &nbsp; Content creator and Blog Writing as hobbies/side hustles.
+- 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
